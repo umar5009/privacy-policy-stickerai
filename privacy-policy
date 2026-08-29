@@ -1,48 +1,48 @@
-# Privacy Policy — YouStamp AI
+Privacy Policy
+Last updated: 27 August 2026
 
-**Last updated:** 27 August 2026
+Stills (“the app”) is designed so your photos and creations stay on your device. This policy explains what the app uses, what it does not collect, and how Apple’s system features fit in.
 
-YouStamp AI ("the app") is designed so your photos and creations stay on your device. This policy explains what the app uses, what it does not collect, and how Apple's system features fit in.
+Who this covers
 
-## Who this covers
+This policy applies to the iOS/iPadOS app Stills. It does not cover Apple’s own services (App Store, Apple Intelligence, Image Playground, or iCloud Backup), which are governed by Apple’s privacy policy.
 
-This policy applies to the iOS/iPadOS app YouStamp AI. It does not cover Apple's own services (App Store, Apple Intelligence, Image Playground, or iCloud Backup), which are governed by Apple's privacy policy.
+Information the app does not collect
 
-## Information the app does not collect
+Stills does not create an account, does not run its own servers for your photos, and does not include third-party analytics, advertising, or crash-reporting SDKs in the current version. We do not sell your information.
 
-YouStamp AI does not create an account, does not run its own servers for your photos, and does not include third-party analytics, advertising, or crash-reporting SDKs in the current version. We do not sell your information.
-
-## Photos and creations
+Photos and creations
 
 If you grant Photo Library permission, the app can read a photo you pick and, if you choose, save a generated image or GIF back to Photos.
 
-Generation uses Apple's on-device Image Playground (Apple Intelligence). Your source photo is passed to that system sheet on the device. YouStamp AI does not upload that photo to a YouStamp AI server.
+Generation uses Apple’s on-device Image Playground (Apple Intelligence). Your source photo is passed to that system sheet on the device. Stills does not upload that photo to a Stills server.
 
 When you confirm a result, the app copies the file into its private Documents folder and stores local metadata (file name, type, style label, date) with SwiftData on the device. Deleting a creation in Gallery removes that local file and metadata.
 
-## Purchases and credits
+Purchases and credits
 
-Credit balance is stored in on-device settings (UserDefaults). In-app purchases and Pro subscriptions are processed by Apple through StoreKit. YouStamp AI does not receive your full payment card details. Apple may associate the purchase with your Apple ID under Apple's terms.
+Credit balance is stored in on-device settings (UserDefaults). In-app purchases and Pro subscriptions are processed by Apple through StoreKit. Stills does not receive your full payment card details. Apple may associate the purchase with your Apple ID under Apple’s terms.
 
-## Permissions
+Permissions
 
-- **Photo Library.** Used only to pick a source image and to save creations you choose to export.
-
+Photo Library. Used only to pick a source image and to save creations you choose to export.
 You can revoke access in iOS Settings → Privacy & Security → Photos. The app will not work for picking or saving photos without that access.
 
-## Device backups
+Device backups
 
-If you back up your iPhone or iPad (including iCloud Backup), Apple's backup may include the app's local files and settings. That backup is controlled by you and Apple, not by a YouStamp AI cloud account.
+If you back up your iPhone or iPad (including iCloud Backup), Apple’s backup may include the app’s local files and settings. That backup is controlled by you and Apple, not by a Stills cloud account.
 
-## Children
+Children
 
 The app is not directed at children under 13. Do not use it to generate sexual content involving minors. You are responsible for the photos you choose and the way you share results.
 
-## Changes
+Changes
 
-If this policy changes, the "Last updated" date above will change. Continued use of the app after an update means you accept the revised policy.
+If this policy changes, the “Last updated” date above will change. Continued use of the app after an update means you accept the revised policy.
 
-## Contact
+Contact
+
+Privacy questions: replace this with your contact before you ship.
 
 Privacy questions: replace this with your contact before you ship.
 
