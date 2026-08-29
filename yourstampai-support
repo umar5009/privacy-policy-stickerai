@@ -1,54 +1,46 @@
-# Support — YouStamp AI
-
+Support
 Help for creating on-device portraits, stickers, avatars, and GIFs.
 
-## What YouStamp AI does
+What Stills does
 
-YouStamp AI uses Apple Intelligence on your device to turn a photo from your library into a portrait, die-cut sticker, profile avatar, or short looping GIF. Generation runs in Apple's Image Playground sheet. Photos are not uploaded to a YouStamp AI server.
+Stills uses Apple Intelligence on your device to turn a photo from your library into a portrait, die-cut sticker, profile avatar, or short looping GIF. Generation runs in Apple’s Image Playground sheet. Photos are not uploaded to a Stills server.
 
-## What you need
+What you need
 
-- iPhone 15 Pro or newer, or an M-series iPad
-- iOS or iPadOS 18.1 or later
-- Apple Intelligence turned on in Settings
-- A clear photo of a person
-
+iPhone 15 Pro or newer, or an M-series iPad
+iOS or iPadOS 18.1 or later
+Apple Intelligence turned on in Settings
+A clear photo of a person
 The iOS Simulator cannot run this model. Use a supported physical device.
 
-## How to create
+How to create
 
-1. Open the Create tab and pick a photo.
-2. Choose Portrait, Sticker, Avatar, or GIF. For GIF, pick a motion such as Bounce or Wiggle.
-3. Choose a style (Realistic is the default) or type your own description.
-4. Tap Generate. Confirm the result in Image Playground.
-5. When it saves, YouStamp AI opens Gallery on that creation.
-
-## Credits and Pro
+Open the Create tab and pick a photo.
+Choose Portrait, Sticker, Avatar, or GIF. For GIF, pick a motion such as Bounce or Wiggle.
+Choose a style (Realistic is the default) or type your own description.
+Tap Generate. Confirm the result in Image Playground.
+When it saves, Stills opens Gallery on that creation.
+Credits and Pro
 
 New installs include 10 free generations. Each save uses one credit unless you subscribe to Pro. You can buy credit packs (10, 50, or 150) or Pro monthly / yearly. Restore purchases from Settings if you reinstall.
 
 Subscriptions auto-renew unless you cancel at least 24 hours before the period ends in your Apple ID subscription settings. Manage or cancel in Settings → Apple ID → Subscriptions.
 
-Apple's standard Licensed Application End User License Agreement: [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+Apple’s standard Licensed Application End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-## Common issues
+Common issues
 
-**Generate is unavailable.** The device must support Apple Intelligence, and it must be enabled. After turning it on, wait until Apple finishes downloading the on-device models.
+Generate is unavailable. The device must support Apple Intelligence, and it must be enabled. After turning it on, wait until Apple finishes downloading the on-device models.
 
-**The GIF looks still, or an old GIF looks wrong.** Image Playground returns one still frame. YouStamp AI then builds the looping GIF. Create a new GIF to use the latest animation. Items already in Gallery are not re-encoded.
+The GIF looks still, or an old GIF looks wrong. Image Playground returns one still frame. Stills then builds the looping GIF. Create a new GIF to use the latest animation. Items already in Gallery are not re-encoded.
 
-**It doesn't look like the person.** Keep Realistic selected, use a sharp, well-lit face photo, and confirm the photo is attached in Image Playground before you generate. Apple's on-device styles are illustration, animation, and sketch — not a real camera photo.
+It doesn’t look like the person. Keep Realistic selected, use a sharp, well-lit face photo, and confirm the photo is attached in Image Playground before you generate. Apple’s on-device styles are illustration, animation, and sketch — not a real camera photo.
 
-**Photos permission.** YouStamp AI asks for Photo Library access so you can pick a source picture and save results. You can change this in Settings → Privacy & Security → Photos.
+Photos permission. Stills asks for Photo Library access so you can pick a source picture and save results. You can change this in Settings → Privacy & Security → Photos.
 
-## Contact
+Contact
 
 For bugs or questions, open an issue on the public GitHub repo for this project, or email the address listed on the App Store listing if you publish one.
 
 Replace this paragraph with your real contact before you ship, for example:
-
 'muzaffarumar768@gmail.com'
-
----
-
-[Privacy Policy](privacy.html) · [Home](index.html)
